@@ -1,0 +1,16 @@
+# Archivos de clases compiladas
+/bin/
+*.class
+
+# Archivos de configuración de Eclipse
+.project
+.classpath
+.settings/
+
+# Archivos de datos generados por la aplicación
+estudiantes.json
+StudyOrganizer.jar
+
+# Archivos del sistema operativo (macOS, Windows)
+.DS_Store
+Thumbs.db
